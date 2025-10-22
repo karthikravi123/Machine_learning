@@ -1,7 +1,7 @@
 # Machine_learning
 Supervised and Unsupervised
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMachine-learning-algorithms_fig1_338349141&psig=AOvVaw3FrhJlRJ8uQKH2HCPlmscb&ust=1761214464896000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDxyqfJt5ADFQAAAAAdAAAAABAn
+![Machine-learning-algorithms](https://github.com/user-attachments/assets/2cf3b2a7-5a40-42ea-9cda-c7901ddf7ed5)
 
 
 ##Supervised
