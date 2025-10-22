@@ -1,5 +1,5 @@
 # Machine_learning
-Supervised and Unsupervised
+Supervised and Unsupervised ML
 
 ![Machine-learning-algorithms](https://github.com/user-attachments/assets/2cf3b2a7-5a40-42ea-9cda-c7901ddf7ed5)
 
