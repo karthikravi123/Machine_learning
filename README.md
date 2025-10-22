@@ -1,6 +1,8 @@
 # Machine_learning
 Supervised and Unsupervised
+
 ##Supervised
+
 1.Linear Regression
 2.logistic Regression
 -Ridge,Lasoo
@@ -15,6 +17,7 @@ Gradient Boostin
 
 
 ##Unsupervised
+
 1.PCA
 2.K-Means
 3.Hierarichal Clustering
